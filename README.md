@@ -32,8 +32,7 @@ sellers, order_payments, order_reviews, geolocation.
 ## Sample Output
 
 ### Q12: Top 10 products by revenue per category
-![Q12(
-)
+![Q12 Output](Part_c_12.png)
 
 ## Project Structure
 - `report/` : full project report (PDF)
