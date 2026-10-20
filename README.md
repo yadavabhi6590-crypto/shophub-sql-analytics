@@ -15,7 +15,7 @@ stored procedures and index optimization.
 3NF schema with 8 tables: customer, orders, order_items, products,
 sellers, order_payments, order_reviews, geolocation.
 
-![ERD](Diagram)
+[ERD Diagram](Diagram.png)
 )
 
 ## Topics Covered
