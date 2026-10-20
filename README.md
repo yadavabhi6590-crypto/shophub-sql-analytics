@@ -15,7 +15,7 @@ stored procedures and index optimization.
 3NF schema with 8 tables: customer, orders, order_items, products,
 sellers, order_payments, order_reviews, geolocation.
 
-![ERD](<img width="1200" height="870" alt="Part_A_Q_3" src="https://github.com/user-attachments/assets/499992fe-a32c-4427-8ab3-79d373fc9778" />
+![ERD](Diagram)
 )
 
 ## Topics Covered
@@ -32,7 +32,7 @@ sellers, order_payments, order_reviews, geolocation.
 ## Sample Output
 
 ### Q12: Top 10 products by revenue per category
-![Q12](<img width="1488" height="857" alt="Part_c_12" src="https://github.com/user-attachments/assets/ef77f0a3-0677-40e5-913d-977d7d5368c3" />
+![Q12(
 )
 
 ## Project Structure
